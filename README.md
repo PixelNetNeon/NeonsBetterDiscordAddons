@@ -2,7 +2,5 @@
 betterdiscord good 👍
 
 # 📃 Addons
-## 🖌️ Themes
-* None Yet!
 ## 🪛 Plugins
-* None Yet!
+* [Amoled](https://github.com/PixelNetNeon/BetterDiscordAddons/tree/main/plugins/Amoled)
